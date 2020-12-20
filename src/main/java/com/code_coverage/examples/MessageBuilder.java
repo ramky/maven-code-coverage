@@ -1,4 +1,4 @@
-package com.mkyong.examples;
+package com.code_coverage.examples;
 
 public class MessageBuilder {
 
